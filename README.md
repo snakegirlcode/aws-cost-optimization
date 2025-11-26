@@ -17,7 +17,7 @@
 
 ### 🗺️ Diagrama Dark da Arquitetura
 
-![Diagrama Dark](assets/diagrama-dark.png)
+![Diagrama Dark](assets/dark_diagram.png)
 
 Este repositório contém o relatório completo da implementação de três serviços AWS focados em **redução imediata de custos**, aplicados na **Abstergo Industries**. Todo o material foi adaptado em um estilo **canvas gótico/dark**, oferecendo clareza visual, estrutura limpa e uma identidade marcante para apresentação profissional.
 
