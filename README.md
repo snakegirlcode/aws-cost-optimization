@@ -65,8 +65,8 @@ A implementação trouxe economia imediata, maior automação, aumento de dispon
 
 ## 📎 **Anexos**
 
-* Relatório completo em PDF (versão dark)
-* Diagramas de arquitetura (tema shadow)
+* Relatório completo em PDF
+* Diagramas de arquitetura
 * Planilhas de consumo AWS
 * Políticas S3 Lifecycle
 
