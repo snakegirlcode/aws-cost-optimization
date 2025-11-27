@@ -65,7 +65,7 @@ A implementação trouxe economia imediata, maior automação, aumento de dispon
 
 ## 📎 Anexos
 
-- [Relatório Dark (PDF)]([docs/AWS_Cost_Optimization_Report.pdf](https://github.com/snakegirlcode/aws-cost-optimization/blob/35d208bb7164c6c0d0b02bc072a20cd355861ebc/docs/AWS%20Cost%20Optimization%20Report.pdf))
+- [Relatório Dark (PDF)](https://github.com/snakegirlcode/aws-cost-optimization/blob/35d208bb7164c6c0d0b02bc072a20cd355861ebc/docs/AWS%20Cost%20Optimization%20Report.pdf)
 - [Planilha de Consumo AWS (CSV)](docs/consumo_aws.csv)
 - [Lifecycle Policy S3 (TXT)](docs/s3_lifecycle_policy.txt)
 
