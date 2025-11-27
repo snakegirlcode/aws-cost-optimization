@@ -65,8 +65,7 @@ A implementação trouxe economia imediata, maior automação, aumento de dispon
 
 ## 📎 **Anexos**
 
-* Relatório completo em PDF
-* Diagramas de arquitetura
+* Relatório completo em PDF (docs/AWS Cost Optimization Report.pdf)
 * Planilhas de consumo AWS
 * Políticas S3 Lifecycle
 
