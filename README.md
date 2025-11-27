@@ -65,7 +65,7 @@ A implementação trouxe economia imediata, maior automação, aumento de dispon
 
 ## 📎 Anexos
 
-- [Relatório Dark (PDF)](docs/relatorio_dark.pdf)
+- [Relatório Dark (PDF)](docs/AWS_Cost_Optimization_Report.pdf)
 - [Planilha de Consumo AWS (CSV)](docs/consumo_aws.csv)
 - [Lifecycle Policy S3 (TXT)](docs/s3_lifecycle_policy.txt)
 
